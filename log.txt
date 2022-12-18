@@ -1,0 +1,12 @@
+Drank water at 4 2022-12-18 13:33:21.474617
+Physical exercise done at 12 2022-12-18 13:33:28.904033
+Drank water at 4 2022-12-18 13:33:31.704504
+Drank water at 5 2022-12-18 13:34:12.147403
+Physical exercise done at 15 2022-12-18 13:34:19.839983
+Drank water at 5 2022-12-18 13:34:24.325534
+Drank water at 5 2022-12-18 13:34:32.203309
+Physical exercise done at 15 2022-12-18 13:34:41.189384
+Drank water at 60 2022-12-18 13:36:20.142380
+Physical exercise done at 90 2022-12-18 13:36:39.098169
+Drank water at 60 2022-12-18 13:37:28.684546
+Physical exercise done at 90 2022-12-18 13:38:20.828975
